@@ -25,14 +25,14 @@
   
   
   ##
- 
+ <p align="center">
 <div> 
   <a href="https://instagram.com/atiladefreitas.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/atilafreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:atiladefreitas@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/-atiladefreitas@protonmail.ch-%230077B5?style=for-the-badge&logo=protonmail&logoColor=white&color=lightgrey" target="_blank"></a> 
- 
+  </p>
 <!--
 **atiladefreitas/atiladefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
