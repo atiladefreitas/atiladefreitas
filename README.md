@@ -1,10 +1,24 @@
-## Heyy! me chamo Átila de Freitas 👋👋 
-<div>
-  <a href="https://github.com/atiladefreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
+## Heyy! me chamo Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  </br>                                
+                                  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=dark"
+    />
+  </a>
+</p> 
+  </br>
+  
+## Tools 🤓  
   <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,18 +34,23 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </p>
- >
 </div>
+  </br>
   
-  
-  ##
- <p align="center">
-<div> 
-  <a href="https://instagram.com/atiladefreitas.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/atilafreitas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:atiladefreitas@protonmail.ch" target="_blank"><img src="https://img.shields.io/badge/-atiladefreitas@protonmail.ch-%230077B5?style=for-the-badge&logo=protonmail&logoColor=white&color=lightgrey" target="_blank"></a> 
+## Where to find me 📱
+  </br>
+  <p align="center">
+  <a href="https://instagram.com/atiladefreitas.io">
+        <img  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/atilafreitas">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:atiladefreitas@protonmail.ch">
+        <img src="https://img.shields.io/badge/-atiladefreitas@protonmail.ch-%230077B5?style=for-the-badge&logo=protonmail&logoColor=white&color=lightgrey">
+    </a>
   </p>
 <!--
 **atiladefreitas/atiladefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
