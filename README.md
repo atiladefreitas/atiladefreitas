@@ -1,21 +1,11 @@
 ## Heyy! my name is Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   </br>                                
                                   
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-         height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
-    />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=dark"
-    />
-  </a>
-</p> 
+<div>
+  <a href="https://github.com/atiladefreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   </br>
   
