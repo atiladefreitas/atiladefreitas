@@ -1,7 +1,7 @@
 ## Heyy! my name is Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
   </br>                                
                                   
-<div>
+<div align="center">
   <a href="https://github.com/atiladefreitas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=7&theme=dark"/>
