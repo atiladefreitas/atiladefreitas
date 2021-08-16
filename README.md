@@ -9,11 +9,11 @@
       src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
     />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="150"
+      height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=dark"
     />
   </a>
