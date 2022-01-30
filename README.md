@@ -36,6 +36,8 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
+      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
