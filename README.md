@@ -72,3 +72,7 @@
         <img src="https://img.shields.io/badge/-contact@atiladefreitas.co-%230077B5?style=for-the-badge&logo=icloud&logoColor=white&color=informational">
     </a>
   </p>
+  
+  ## My Statistics
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=atiladefreitas&custom_title=Átila%20Freitas%27s%20Contribution%20Graph&theme=dracula&bg_color=1b1b1b&hide_border=true&line=5C7B9C&point=E0D4C6)](https://atiladefreitas.co)
