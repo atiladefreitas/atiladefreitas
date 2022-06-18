@@ -101,15 +101,15 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
 <h1>STAY CONNECTED</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
     <a href="https://instagram.com/atiladefreitas.co/"><img src="./Assets/isntagram.png"height="45em"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
 <a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
 <a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
 <a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
-    &nbsp;&nbsp;
+    &nbsp;
 <a href="https://atiladefreitas.co/"><img src="./Assets/Website.png"height="45em"/></a>
 </p>
 </div>
