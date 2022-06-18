@@ -20,7 +20,7 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
   <h2>EXPERIENCE 💼</h2>
 
   <div>
-  <p style="font-size: 18px">Frontend Developer & UI / UX</h4>
+  <p style="font-size: 18px">Frontend Developer & UI / UX</p>
   <p style="font-size: 18px">Volpi</p>
   <p style="font-size: 12px">May 2022 - Present, São Paulo - Brasil</p>
   <p style="font-size: 16px">Development of pages focused on customer prospecting and user
