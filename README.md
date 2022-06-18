@@ -17,36 +17,36 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
 </br>
 
 <div>
-  <h1>EXPERIENCE 💼</h1>
+  <h2>EXPERIENCE 💼</h2>
 
   <div>
-  <h2>Frontend Developer & UI / UX</h4>
-  <p style="font-size: 16px" >Volpi</p>
-  <p style="font-size: 12px">May 2022 - Present, São Paulo - Brasil</p>
-  <p>Development of pages focused on customer prospecting and user
+  <h3>Frontend Developer & UI / UX</h4>
+  <h3>Volpi</h3>
+  <h5>May 2022 - Present, São Paulo - Brasil</h5>
+  <h4>Development of pages focused on customer prospecting and user
 experience. Design readjustment and the like. Some technologies
-used: ReactJS, Python, Figma.</p>
+used: ReactJS, Python, Figma.</h4>
   </div>
 
   </br>
 
   <div>
-  <h2>Fullstack Developer & CTO</h4>
-  <p style="font-size: 16px" >LCC.hub</p>
-  <p style="font-size: 12px">Sep 2021 - May de 2022 (10 mo), Natal - Brasil</p>
-  <p>Worked with the interfaces development using ReactJS and
+  <h3>Fullstack Developer & CTO</h3>
+  <h3 >LCC.hub</h3>
+  <h5>Sep 2021 - May de 2022 (10 mo), Natal - Brasil</h5>
+  <h4>Worked with the interfaces development using ReactJS and
 NodeJS, and respectively, with TypeScript. Project management and
-planning, technology enrichment, open-banking, infrastructure.</p>
+planning, technology enrichment, open-banking, infrastructure.</h4>
   </div>
 
   </br>
 
   <div>
-  <h2>Undergraduate Researcher</h4>
-  <p style="font-size: 16px" >CNPq - Federal University of Rio Grande do Norte</p>
-  <p style="font-size: 12px">Dec 2018 - Aug 2020 (1 yr 9 mo), Natal - Brasil</p>
-  <p>Density Functional Theory Study of Spinel Type Oxide MgAl2O4
-doped with Transition Metals obtained by Combustion Synthesis.</p>
+  <h3>Undergraduate Researcher</h4>
+  <h3>CNPq - Federal University of Rio Grande do Norte</h3>
+  <h5>Dec 2018 - Aug 2020 (1 yr 9 mo), Natal - Brasil</h5>
+  <h4>Density Functional Theory Study of Spinel Type Oxide MgAl2O4
+doped with Transition Metals obtained by Combustion Synthesis.</h4>
   </div>
 
 </div>
@@ -54,7 +54,7 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
   </br>
 
 <div>
-<h1>TECHS & TOOLS 🔧</h1>
+<h2>TECHS & TOOLS 🔧</h2>
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -98,7 +98,7 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
 </div>
 </br>
 <div>
-<h1>STAY CONNECTED</h1>
+<h2>STAY CONNECTED</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
     &nbsp;
