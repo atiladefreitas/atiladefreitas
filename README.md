@@ -19,6 +19,14 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
 <div>
   <h2>EXPERIENCE 💼</h2>
 
+## Frontend Developer
+
+## Volpi
+
+##### May 2022 - Present, São Paulo - Brasil
+
+#### Development of pages focused on customer prospecting and user experience. Design readjustment and the like. Some technologies used: ReactJS, Python, Figma.
+
   <div>
   <p style="font-size: 18px">Frontend Developer & UI / UX</p>
   <p style="font-size: 18px">Volpi</p>
