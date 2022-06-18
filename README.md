@@ -20,12 +20,12 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
   <h2>EXPERIENCE 💼</h2>
 
   <div>
-  <h3>Frontend Developer & UI / UX</h4>
-  <h3>Volpi</h3>
-  <h5>May 2022 - Present, São Paulo - Brasil</h5>
-  <h4>Development of pages focused on customer prospecting and user
+  <p style="font-size: 18px">Frontend Developer & UI / UX</h4>
+  <p style="font-size: 18px">Volpi</p>
+  <p style="font-size: 12px">May 2022 - Present, São Paulo - Brasil</p>
+  <p style="font-size: 16px">Development of pages focused on customer prospecting and user
 experience. Design readjustment and the like. Some technologies
-used: ReactJS, Python, Figma.</h4>
+used: ReactJS, Python, Figma.</p>
   </div>
 
   </br>
