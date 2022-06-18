@@ -1,4 +1,4 @@
-## Heyy! my name is Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Heyy! my name is Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="80em">
   </br>                                
                                   
 <div align="center">
