@@ -96,7 +96,7 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
     &nbsp;
 <a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
 
-<a download="" href="./Assets/cv.pdf" >
+<a  href="./Assets/cv.pdf" download>
 <img src="./Assets/Github.png"height="45em"/>
 </a>
 
