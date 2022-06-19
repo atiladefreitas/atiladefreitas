@@ -11,49 +11,16 @@ In 2018 I joined the Physics Bachelor at the Federal University of Rio Grande do
 Since the beginning of 2021 I have been studying programming in a self-taught way focused on Fullstack Development and Cyber Security.
 
 </br>
-
-# TECHS & TOOLS 🔧
-
 <p align="center">
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/graphql/graphql-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
+<a ref="https://github.com/atiladefreitas">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=tokyonight"/>
+&nbsp;&nbsp;
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
+</a>
+
 </p>
-</br>
- <p align="center">
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/digitalocean/digitalocean-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-      <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-<!-- 
+
+<!--
   <h1>EXPERIENCE 💼</h1>
   <div>
   <h2>Frontend Developer & UI / UX</h4>
@@ -84,20 +51,3 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
 </br>
 
 # STAY CONNECTED 📱
-
-<p align="center">
-<a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
-    &nbsp;
-    <a href="https://instagram.com/atiladefreitas.co/"><img src="./Assets/isntagram.png"height="45em"/></a>
-    &nbsp;
-<a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
-    &nbsp;
-<a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
-    &nbsp;
-<a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
-
-<a  href="./Assets/cv.pdf" download>
-<img src="./Assets/Github.png"height="45em"/>
-</a>
-
-</p>
