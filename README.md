@@ -11,43 +11,24 @@ In 2018 I joined the Physics Bachelor at the Federal University of Rio Grande do
 Since the beginning of 2021 I have been studying programming in a self-taught way focused on Fullstack Development and Cyber Security.
 
 </br>
-<p align="center">
-<a ref="https://github.com/atiladefreitas">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=tokyonight"/>
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
-</a>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
+    &nbsp;
+    <a href="https://instagram.com/atiladefreitas.co/"><img src="./Assets/isntagram.png"height="45em"/></a>
+    &nbsp;
+<a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
+    &nbsp;
+<a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
+    &nbsp;
+<a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
 </p>
 
-<!--
-  <h1>EXPERIENCE 💼</h1>
-  <div>
-  <h2>Frontend Developer & UI / UX</h4>
-  <p style="font-size: 16px" >Volpi</p>
-  <p style="font-size: 12px">May 2022 - Present, São Paulo - Brasil</p>
-  <p>Development of pages focused on customer prospecting and user
-experience. Design readjustment and the like. Some technologies
-used: ReactJS, Python, Figma.</p>
-  </div>
-  </br>
-  <div>
-  <h2>Fullstack Developer & CTO</h4>
-  <p style="font-size: 16px" >LCC.hub</p>
-  <p style="font-size: 12px">Sep 2021 - May de 2022 (10 mo), Natal - Brasil</p>
-  <p>Worked with the interfaces development using ReactJS and
-NodeJS, and respectively, with TypeScript. Project management and
-planning, technology enrichment, open-banking, infrastructure.</p>
-  </div>
-  </br>
-  <div>
-  <h2>Undergraduate Researcher</h4>
-  <p style="font-size: 16px" >CNPq - Federal University of Rio Grande do Norte</p>
-  <p style="font-size: 12px">Dec 2018 - Aug 2020 (1 yr 9 mo), Natal - Brasil</p>
-  <p>Density Functional Theory Study of Spinel Type Oxide MgAl2O4
-doped with Transition Metals obtained by Combustion Synthesis.</p>
-  </div> -->
-
 </br>
-
-# STAY CONNECTED 📱
+<p align="center">
+<a ref="https://github.com/atiladefreitas">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=tokyonight"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
+</a>
+</p>
