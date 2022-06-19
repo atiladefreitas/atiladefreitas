@@ -81,11 +81,10 @@ planning, technology enrichment, open-banking, infrastructure.</p>
 doped with Transition Metals obtained by Combustion Synthesis.</p>
   </div> -->
 
-  </br>
-
 </br>
 
-<h1>STAY CONNECTED</h1>
+# STAY CONNECTED 📱
+
 <p align="center">
 <a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
     &nbsp;
@@ -96,5 +95,9 @@ doped with Transition Metals obtained by Combustion Synthesis.</p>
 <a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
     &nbsp;
 <a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
+
+<a download="" href="./Assets/cv.pdf" >
+<img src="./Assets/Github.png"height="45em"/>
+</a>
 
 </p>
