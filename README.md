@@ -27,7 +27,7 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
 </br>
 <p align="center">
 <a ref="https://github.com/atiladefreitas">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&show_icons=true&theme=tokyonight&count_private=true"/>
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
 </a>
