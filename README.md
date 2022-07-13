@@ -15,8 +15,6 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
 <p align="center">
 <a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
     &nbsp;
-    <a href="https://instagram.com/atiladefreitas.co/"><img src="./Assets/isntagram.png"height="45em"/></a>
-    &nbsp;
 <a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
     &nbsp;
 <a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
