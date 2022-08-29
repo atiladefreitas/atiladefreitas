@@ -2,7 +2,7 @@
 
 </br>
 
-## Hello, My name is Átila de Freitas <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="40em">
+## Hello, My name is Átila de Freitas
 
 I'm 24yo from the northeast of Brazil, and I'm a Fullstack Javascript Developer. From the time I was a child I've been interested in technology. My first contact with a computer happened when I was 4 years old - it was my father's 2mb ram machine. Since then I became more and more interested in technology.
 
