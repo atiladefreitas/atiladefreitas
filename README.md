@@ -24,9 +24,9 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
 
 </br>
 <p align="center">
-<a ref="https://github.com/atiladefreitas">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&count_private=true&show_icons=true&theme=tokyonight"/>
+<a ref="https://github.com/atiladefreitas"> 
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atiladefreitas&count_private=true&show_icons=true&theme=tokyonight"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
 </a>
 </p>
