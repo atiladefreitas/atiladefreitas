@@ -1,14 +1,24 @@
-<img src="./Assets/Frame 1.png" style="border-radius: 8px"/>
+<img src="./Assets/banner.png" style="border-radius: 8px"/>
 
 </br>
 
-## Hello, My name is Átila de Freitas
+## Hello, I'm Átila de Freitas 👋
 
-I'm 25yo from the northeast of Brazil, and I'm a Fullstack Javascript Developer. From the time I was a child I've been interested in technology. My first contact with a computer happened when I was 4 years old - it was my father's 2mb ram machine. Since then I became more and more interested in technology.
+I'm a passionate Full-Stack Developer dedicated to creating meaningful digital experiences that positively impact people's lives. Since 2018, I've been collaborating with multidisciplinary teams to develop intuitive web and mobile applications, with a special focus on optimizing user experience and achieving high retention rates.
 
-In 2018 I joined the Physics Bachelor at the Federal University of Rio Grande do Norte (UFRN) where my contact with new technologies and science became even more intense and it was at UFRN that I actually started to program. There I was able to learn C++, Python and Fortran. I started to study the area of Quantum Physics called Density Functional Theory (DFT) using ab-initio Crystal17 software for calculations.
+My Specialties:
 
-Since the beginning of 2021 I have been studying programming in a self-taught way focused on Fullstack Development and Cyber Security.
+Front-End: With advanced experience in ReactJS, React Native, and VueJS, I strive to build fluid and responsive interfaces that delight users.
+
+Back-End: Proficient in Node.js and Python, I develop robust back-end solutions ensuring performance, scalability, and security.
+
+UI/UX Design: Using Figma, I design user experiences that are both beautiful and functional, always with the end-user in mind.
+
+Databases: With a deep understanding of SQL and NoSQL, I work with MongoDB and PostgreSQL to manage data efficiently and securely.
+
+Infrastructure Management: Experienced in Docker and managing complex infrastructures, I ensure applications are reliable and optimized.
+
+Through my work, I seek not just to meet, but to exceed expectations, employing best practices and the most current technologies. I'm always exploring new tools and techniques to enhance my craft and contribute to the development community.
 
 </br>
 
@@ -17,7 +27,7 @@ Since the beginning of 2021 I have been studying programming in a self-taught wa
     &nbsp;
 <a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
     &nbsp;
-<a href="mailto:contact@atiladefreitas.co"><img src="./Assets/E-mail.png" height="45em"/></a>
+<a href="mailto:contact@atiladefreitas.com"><img src="./Assets/E-mail.png" height="45em"/></a>
     &nbsp;
 <a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
 </p>
