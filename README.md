@@ -38,7 +38,7 @@ Fullstack Engineer specializing in modern JavaScript ecosystems, with a deep pas
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 <a ref="https://github.com/atiladefreitas"> 
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atiladefreitas&count_private=true&show_icons=true&theme=tokyonight"/>
 &nbsp;&nbsp;
