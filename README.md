@@ -1,38 +1,43 @@
-<img src="./Assets/new-banner.jpeg" style="border-radius: 8px"/>
+# Hi there 👋, I'm Átila de Freitas
 
-</br>
+Fullstack Engineer specializing in modern JavaScript ecosystems, with a deep passion for web development and open source. Currently based in Natal, Brazil 🌴
 
-## Hello, I'm Átila de Freitas 👋
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/atilafreitas)
+[![Email](https://img.shields.io/badge/-Email-EEEEEE?style=flat-square&logo=proton&logoColor=purple)](mailto:contact@atiladefreitas.com)
+<!-- [![Download CV](https://img.shields.io/badge/-Download%20CV-333333?style=flat-square&logo=readthedocs&logoColor=white)](https://www.atiladefreitas.com/cv.pdf) -->
 
-I'm a passionate Full-Stack Developer dedicated to creating meaningful digital experiences that positively impact people's lives. Since 2018, I've been collaborating with multidisciplinary teams to develop intuitive web and mobile applications, with a special focus on optimizing user experience and achieving high retention rates.
+## 🔧 Technologies & Tools
 
-My Specialties:
+![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Front-End: With advanced experience in ReactJS, React Native, and VueJS, I strive to build fluid and responsive interfaces that delight users.
+## 🚀 About Me
 
-Back-End: Proficient in Node.js and Python, I develop robust back-end solutions ensuring performance, scalability, and security.
+- 🔭 Full-stack Developer with 4+ years of experience in web and mobile development
+- 💡 Expert in React, React Native, Node.js, and TypeScript
+- 🎨 Strong proficiency in UI design using Figma
+- 📊 Experience in scaling applications serving millions of users
+- 🌱 Physics background with computational methods expertise
+- ✨ Open source enthusiast and contributor
 
-UI/UX Design: Using Figma, I design user experiences that are both beautiful and functional, always with the end-user in mind.
+## 🛠️ Featured Open-source Projects
 
-Databases: With a deep understanding of SQL and NoSQL, I work with MongoDB and PostgreSQL to manage data efficiently and securely.
+### Neovim Plugins
+- [LazyClip](https://github.com/atiladefreitas/lazyclip) - A Practical Clipboard Manager for Neovim
+- [Dooing](https://github.com/atiladefreitas/dooing) - A Minimalist To-do list Manager for Neovim
+- [TinyUnit](https://github.com/atiladefreitas/tinyunit) - A Simple CSS Unit Converter for Neovim
 
-Infrastructure Management: Experienced in Docker and managing complex infrastructures, I ensure applications are reliable and optimized.
+## 📫 Get in Touch
 
-Through my work, I seek not just to meet, but to exceed expectations, employing best practices and the most current technologies. I'm always exploring new tools and techniques to enhance my craft and contribute to the development community.
+- LinkedIn: [linkedin.com/in/atilafreitas](https://linkedin.com/in/atilafreitas)
+- Email: contact@atiladefreitas.com
 
-</br>
+## 📊 GitHub Stats
 
-<p align="center">
-<a href="https://www.linkedin.com/in/atilafreitas/"><img src="./Assets/Linkedin.png"height="45em"/></a>
-    &nbsp;
-<a href="https://t.me/atilajcfreitas"><img src="./Assets/Telegram.png"height="45em"/></a>
-    &nbsp;
-<a href="mailto:contact@atiladefreitas.com"><img src="./Assets/E-mail.png" height="45em"/></a>
-    &nbsp;
-<a href="https://github.com/atiladefreitas"><img src="./Assets/Github.png"height="45em"/></a>
-</p>
-
-</br>
 <p align="center">
 <a ref="https://github.com/atiladefreitas"> 
 <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atiladefreitas&count_private=true&show_icons=true&theme=tokyonight"/>
