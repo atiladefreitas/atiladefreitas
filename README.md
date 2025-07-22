@@ -38,10 +38,9 @@ Fullstack Engineer specializing in modern JavaScript ecosystems, with a deep pas
 
 ## 📊 GitHub Stats
 
-<p>
-<a ref="https://github.com/atiladefreitas"> 
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=atiladefreitas&count_private=true&show_icons=true&theme=tokyonight"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=atiladefreitas&layout=compact&langs_count=16&theme=tokyonight"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=atiladefreitas&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atiladefreitas&layout=compact&langs_count=8&card_width=320&theme=tokyonight&count_private=true&show_icons=true" />
+</a>
